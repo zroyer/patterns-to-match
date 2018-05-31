@@ -1,5 +1,6 @@
 # patterns-to-match
 
 ### Setup
-- Clone the repo, open up your favorite terminal, and `cd` into this directory
-- `cat input_file | python patterns_to_match.py > output_file`
+- Open up your favorite terminal, clone the repo, and `cd` into this directory
+- Run the script with `cat input_file | python patterns_to_match.py > output_file`
+- To run a custom input, simply replace `input_file` with the name of the custom input
